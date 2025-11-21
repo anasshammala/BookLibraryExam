@@ -66,6 +66,7 @@ namespace BookLibraryExam.Controllers
                 books.Remove(book);
             }
             return RedirectToAction("Index");
+            /*test */
         }
     }
 }
