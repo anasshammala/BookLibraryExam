@@ -22,4 +22,3 @@ namespace BookLibraryExam.Models
     }
 }
 
-/* test*/
